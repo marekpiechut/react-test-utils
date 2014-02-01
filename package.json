@@ -1,0 +1,25 @@
+{
+  "name": "react-test-utils",
+  "version": "0.0.0",
+  "description": "export the react test utils to single package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kiddkai/react-test-utils"
+  },
+  "keywords": [
+    "react",
+    "react.js",
+    "testing",
+    "reactTestUtils"
+  ],
+  "author": "kiddkai",
+  "license": "apache",
+  "dependencies": {
+    "envify": "~0.2.0",
+    "react": "~0.8.0"
+  }
+}
