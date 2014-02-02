@@ -1,6 +1,6 @@
 {
   "name": "react-test-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "export the react test utils to single package",
   "main": "index.js",
   "scripts": {
